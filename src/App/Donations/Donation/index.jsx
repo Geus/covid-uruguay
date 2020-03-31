@@ -8,7 +8,7 @@ import { translate } from '../../../translations';
 const CLASSNAME = 'donation';
 const Donation = (props) => {
     const { lang } = React.useContext(AppContext);
-    const { name, logo, description, link, tweet, image, details } = props;
+    const { name, logo, description, link, tweet, image, details, keywords } = props;
 
     return (
         <Card className={CLASSNAME}>

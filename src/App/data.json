@@ -8,8 +8,9 @@
             "description": {
                 "es_ES": "Desde Mercado Libre junto al Ministerio de Economía y Finanzas y el Ministerio de Salud Pública lanzamos esta campaña de recaudación de fondos para el Plan Nacional Coronavirus. <br/>Por cada donación recibida hasta el 30 de marzo de 2020, Mercado Libre duplicará el monto donado para apoyar la iniciativa."
             },
-            "link": "https://www.mercadolibre.com.uy/l/codo-a-codo-donar"
-        },
+            "link": "https://www.mercadolibre.com.uy/l/codo-a-codo-donar",
+            "keywords": "donaciones" 
+    },
         {
             "id": 2,
             "name": "Sistema Nacional de Emergencias",
@@ -18,15 +19,17 @@
             "description": {
                 "es_ES": "Frente a iniciativas de la ciudadanía de colaborar en el marco de esta emergencia sanitaria, se han puesto a disposición 2 cuentas para la gestión de donaciones para compra de instrumental médico y sanitario: <br/><br/><b>BROU CC $ 1556713-30</b> <br/><b>BROU CC U$S 1556713-29</b>"
             },
-            "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">Habilitamos dos cuentas del BROU a nombre del <a href=\"https://twitter.com/sinae_oficial?ref_src=twsrc%5Etfw\">@sinae_oficial</a> para recabar fondos para la compra de instrumental médico y sanitario. Al <a href=\"https://twitter.com/hashtag/Coronavirus?src=hash&amp;ref_src=twsrc%5Etfw\">#Coronavirus</a> le ganamos entre todos! 💪🏼💪🏼 <a href=\"https://t.co/v0TYXFkqZw\">pic.twitter.com/v0TYXFkqZw</a></p>&mdash; Alvaro Delgado (@AlvaroDelgadoUy) <a href=\"https://twitter.com/AlvaroDelgadoUy/status/1241144145625993217?ref_src=twsrc%5Etfw\">March 20, 2020</a></blockquote>"
-        },
+            "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">Habilitamos dos cuentas del BROU a nombre del <a href=\"https://twitter.com/sinae_oficial?ref_src=twsrc%5Etfw\">@sinae_oficial</a> para recabar fondos para la compra de instrumental médico y sanitario. Al <a href=\"https://twitter.com/hashtag/Coronavirus?src=hash&amp;ref_src=twsrc%5Etfw\">#Coronavirus</a> le ganamos entre todos! 💪🏼💪🏼 <a href=\"https://t.co/v0TYXFkqZw\">pic.twitter.com/v0TYXFkqZw</a></p>&mdash; Alvaro Delgado (@AlvaroDelgadoUy) <a href=\"https://twitter.com/AlvaroDelgadoUy/status/1241144145625993217?ref_src=twsrc%5Etfw\">March 20, 2020</a></blockquote>",
+            "keywords": "donaciones" 
+    },
         {
             "id": 3,
             "name": "Techo - Uruguay",
             "entity": "Techo - Uruguay",
             "logo": "https://pbs.twimg.com/profile_images/1219632249584390145/DGBuQxNV_400x400.jpg",
-            "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">Ante la situación de <a href=\"https://twitter.com/hashtag/emergencia?src=hash&amp;ref_src=twsrc%5Etfw\">#emergencia</a>; solicitamos el apoyo de <a href=\"https://twitter.com/hashtag/empresas?src=hash&amp;ref_src=twsrc%5Etfw\">#empresas</a> que puedan realizar donaciones de insumos de higiene con el objetivo de mitigar la expansión del <br>COVID- 19 entre las 580 <a href=\"https://twitter.com/hashtag/familias?src=hash&amp;ref_src=twsrc%5Etfw\">#familias</a> con las que trabajamos. <br><br>Por donaciones👉comunicacion.uruguay@techo.org <a href=\"https://t.co/EvEiof722p\">pic.twitter.com/EvEiof722p</a></p>&mdash; TECHO - Uruguay (@TECHOuy) <a href=\"https://twitter.com/TECHOuy/status/1240701281984892932?ref_src=twsrc%5Etfw\">March 19, 2020</a></blockquote>"
-        },
+            "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">Ante la situación de <a href=\"https://twitter.com/hashtag/emergencia?src=hash&amp;ref_src=twsrc%5Etfw\">#emergencia</a>; solicitamos el apoyo de <a href=\"https://twitter.com/hashtag/empresas?src=hash&amp;ref_src=twsrc%5Etfw\">#empresas</a> que puedan realizar donaciones de insumos de higiene con el objetivo de mitigar la expansión del <br>COVID- 19 entre las 580 <a href=\"https://twitter.com/hashtag/familias?src=hash&amp;ref_src=twsrc%5Etfw\">#familias</a> con las que trabajamos. <br><br>Por donaciones👉comunicacion.uruguay@techo.org <a href=\"https://t.co/EvEiof722p\">pic.twitter.com/EvEiof722p</a></p>&mdash; TECHO - Uruguay (@TECHOuy) <a href=\"https://twitter.com/TECHOuy/status/1240701281984892932?ref_src=twsrc%5Etfw\">March 19, 2020</a></blockquote>",
+            "keywords": "" 
+    },
         {
             "id": 4,
             "name": "Banco de Alimentos de Uruguay",
@@ -35,8 +38,9 @@
                 "es_ES": "El Banco de alimentos de Uruguay está recibiendo donaciones para distribuir entre sus beneficiaros. <br/>Si tenés un negocio y lamentablemente tenés que cerrar, contactate con ellos."
             },
             "logo": "https://pbs.twimg.com/profile_images/378800000149791209/09feff7da57013214c9ab02ad2ea0c5a_400x400.jpeg",
-            "image": "https://pbs.twimg.com/media/ETfHGEEWAAYHaH1?format=jpg&name=small"
-        },
+            "image": "https://pbs.twimg.com/media/ETfHGEEWAAYHaH1?format=jpg&name=small",
+            "keywords": "" 
+    },
         {
             "id": 5,
             "name": "YoMeSumo",
@@ -45,8 +49,9 @@
             "description": {
                 "es_ES": "Ante la situación de emergencia sanitaria que estamos viviendo, desde TECHO queremos mitigar la expansión del virus COVID-19 en los barrios que trabajamos, donde la mitad de las familias no acceden a un empleo formal y no cuentan con los recursos necesarios para afrontar los gastos que implican la prevención. Además, el acceso irregular a servicios básicos y el hacinamiento que se vive en muchos hogares es un factor de riesgo para las familias.<br/> <br/>Para apoyar a las familias en el cuidado necesario, lanzamos esta Campaña con el objetivo de recaudar $ 261.000 que utilizaremos para armar y entregar 580 KITS sanitarios a las familias de los barrios donde trabajamos."
             },
-            "link": "https://www.yomesumo.com.uy/campanias/ver/activa/techo-se-une-contra-el-coronavirus-FR2yO"
-        },
+            "link": "https://www.yomesumo.com.uy/campanias/ver/activa/techo-se-une-contra-el-coronavirus-FR2yO",
+            "keywords": "" 
+    },
         {
             "id": 6,
             "name": "Codo/Codo",
@@ -55,8 +60,9 @@
             "description": {
                 "es_ES": "Nuestras pequeñas empresas nos necesitan más que nunca. Aunque no podemos salir de casa, aún podemos apoyar a los restaurantes locales comprando Gift Cards. Básicamente es un mini préstamo, así que compre uno ahora y haga un plan para usarlo más tarde, cuando abran o ya estén operando a niveles normales."
             },
-            "link": "https://www.codoacodo.uy"
-        },
+            "link": "https://www.codoacodo.uy",
+            "keywords": "" 
+    },
         {
             "id": 7,
             "name": "Helpers",
@@ -65,15 +71,17 @@
             "description": {
                 "es_ES": "Desde HELPERS queremos ORGANIZAR la solidaridad, llevando nuestra red social de ayuda a todo el país, utilizando tecnología con geo referenciación y construyendo la red de voluntarios y voluntarias más grande que hayamos soñado. Estar disponibles para charlar con una persona que está sola, con miedo o que necesita que alguien les acerque algo mientras se cuidan en sus casas, cuidar a nuestros padres y abuelos, es parte de lo que nos proponemos aportar."
             },
-            "link": "https://www.charidy.com/helpersuruguay/Gabriel"
-        },
+            "link": "https://www.charidy.com/helpersuruguay/Gabriel",
+            "keywords": "" 
+    },
         {
             "id": 8,
             "name": "Centro Educativo Providencia",
             "entity": "Centro Educativo Providencia",
             "logo": "https://pbs.twimg.com/profile_images/1055523938644738049/1qVUhdWh_400x400.jpg",
-            "image": "centro-providencia.jpeg"
-        },
+            "image": "centro-providencia.jpeg",
+            "keywords": "" 
+    },
         {
             "id": 9,
             "name": "Construcción de Respiradores",
@@ -82,8 +90,9 @@
             "description": {
                 "es_ES": "Se están fabricando respiradores artificiales para poder hacer frente a la posible saturación en plaza por el COVID-19.  Lo que se necesita específicamente son motores PAP, o motores de corriente continua.  Toda impresora o lectoras de CD lo contienen.  También se necesitan placas Arduino o Raspberry Pi."
             },
-            "details": "https://docs.google.com/forms/d/e/1FAIpQLSeV8kH5kqNAN6qUbpFPpCkQfAv4fB3Acm1YetY3TUe9Iv5WHQ/viewform"
-        },
+            "details": "https://docs.google.com/forms/d/e/1FAIpQLSeV8kH5kqNAN6qUbpFPpCkQfAv4fB3Acm1YetY3TUe9Iv5WHQ/viewform",
+            "keywords": "" 
+    },
         {
             "id": 10,
             "name": "#NosCuidamosEntreTodos",
@@ -92,29 +101,33 @@
             "description": {
                 "es_ES": "Somos un grupo de empresarios que queremos ayudar en este momento tan especial. El sector público está haciendo su máximo esfuerzo, pero el sector privado también puede colaborar. Si pensás lo mismo que nosotros, aquí tenés la herramienta para hacerlo. <br/>TU DONACIÓN VALE DOBLE. <br/><br/>Por cada donación personal, nosotros donaremos la misma cantidad, duplicando cada aporte para ayudar aún más."
             },
-            "link": "https://bit.ly/2U1hjnu"
-        },
+            "link": "https://bit.ly/2U1hjnu",
+            "keywords": "" 
+    },
         {
             "id": 11,
             "name": "Colaborá sin salir de tu casa",
             "entity": "#ColaboraDesdeCasa",
             "logo": "icon.png",
-            "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">Una forma de colaborar con los que más están sufriendo por <a href=\"https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw\">#COVID19</a>, sin salir de tu casa. Vamos a salir <a href=\"https://twitter.com/hashtag/entretodos?src=hash&amp;ref_src=twsrc%5Etfw\">#entretodos</a>. <a href=\"https://twitter.com/hashtag/Uruguay?src=hash&amp;ref_src=twsrc%5Etfw\">#Uruguay</a> <a href=\"https://twitter.com/hashtag/ColaboroDesdeCasa?src=hash&amp;ref_src=twsrc%5Etfw\">#ColaboroDesdeCasa</a> (cc <a href=\"https://twitter.com/thisissanty?ref_src=twsrc%5Etfw\">@thisissanty</a>) <a href=\"https://t.co/FawbylX1co\">pic.twitter.com/FawbylX1co</a></p>&mdash; Nicolás Albertoni (@N_Albertoni) <a href=\"https://twitter.com/N_Albertoni/status/1244135170128543744?ref_src=twsrc%5Etfw\">March 29, 2020</a></blockquote>"
-        },
+            "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">Una forma de colaborar con los que más están sufriendo por <a href=\"https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw\">#COVID19</a>, sin salir de tu casa. Vamos a salir <a href=\"https://twitter.com/hashtag/entretodos?src=hash&amp;ref_src=twsrc%5Etfw\">#entretodos</a>. <a href=\"https://twitter.com/hashtag/Uruguay?src=hash&amp;ref_src=twsrc%5Etfw\">#Uruguay</a> <a href=\"https://twitter.com/hashtag/ColaboroDesdeCasa?src=hash&amp;ref_src=twsrc%5Etfw\">#ColaboroDesdeCasa</a> (cc <a href=\"https://twitter.com/thisissanty?ref_src=twsrc%5Etfw\">@thisissanty</a>) <a href=\"https://t.co/FawbylX1co\">pic.twitter.com/FawbylX1co</a></p>&mdash; Nicolás Albertoni (@N_Albertoni) <a href=\"https://twitter.com/N_Albertoni/status/1244135170128543744?ref_src=twsrc%5Etfw\">March 29, 2020</a></blockquote>",
+            "keywords": "" 
+    },
         {
             "id": 12,
             "name": "#PlanNacionalCoronavirus",
             "entity": "Ministerio de Desarrollo Social",
             "logo": "https://pbs.twimg.com/profile_images/1237775907705798657/tS7Bqu8w_400x400.jpg",
-            "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">🤝 Te invitamos a inscribirte al programa de <a href=\"https://twitter.com/hashtag/Voluntariado?src=hash&amp;ref_src=twsrc%5Etfw\">#Voluntariado</a> para colaborar con el <a href=\"https://twitter.com/hashtag/PlanNacionalCoronavirus?src=hash&amp;ref_src=twsrc%5Etfw\">#PlanNacionalCoronavirus</a> <br><br>¡Sumate y participá para transformar! <a href=\"https://twitter.com/hashtag/JuntosPodemos?src=hash&amp;ref_src=twsrc%5Etfw\">#JuntosPodemos</a><br><br>👉 <a href=\"https://t.co/npKfLPc3ln\">https://t.co/npKfLPc3ln</a> <a href=\"https://t.co/8Z4TfRM86f\">pic.twitter.com/8Z4TfRM86f</a></p>&mdash; Ministerio de Desarrollo Social (@midesuy) <a href=\"https://twitter.com/midesuy/status/1243640929484967936?ref_src=twsrc%5Etfw\">March 27, 2020</a></blockquote>"
-        },
+            "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">🤝 Te invitamos a inscribirte al programa de <a href=\"https://twitter.com/hashtag/Voluntariado?src=hash&amp;ref_src=twsrc%5Etfw\">#Voluntariado</a> para colaborar con el <a href=\"https://twitter.com/hashtag/PlanNacionalCoronavirus?src=hash&amp;ref_src=twsrc%5Etfw\">#PlanNacionalCoronavirus</a> <br><br>¡Sumate y participá para transformar! <a href=\"https://twitter.com/hashtag/JuntosPodemos?src=hash&amp;ref_src=twsrc%5Etfw\">#JuntosPodemos</a><br><br>👉 <a href=\"https://t.co/npKfLPc3ln\">https://t.co/npKfLPc3ln</a> <a href=\"https://t.co/8Z4TfRM86f\">pic.twitter.com/8Z4TfRM86f</a></p>&mdash; Ministerio de Desarrollo Social (@midesuy) <a href=\"https://twitter.com/midesuy/status/1243640929484967936?ref_src=twsrc%5Etfw\">March 27, 2020</a></blockquote>",
+            "keywords": "" 
+    },
         {
             "id": 13,
             "name": "Ollas populares",
             "entity": "Twitter",
             "logo": "icon.png",
-            "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">Va hilo con info sobre ollas populares en Uruguay empezando por <a href=\"https://t.co/9bR49sZ664\">pic.twitter.com/9bR49sZ664</a></p>&mdash; Papina De Palma (@papinadepalma) <a href=\"https://twitter.com/papinadepalma/status/1243712961853743105?ref_src=twsrc%5Etfw\">March 28, 2020</a></blockquote>"
-        },
+            "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">Va hilo con info sobre ollas populares en Uruguay empezando por <a href=\"https://t.co/9bR49sZ664\">pic.twitter.com/9bR49sZ664</a></p>&mdash; Papina De Palma (@papinadepalma) <a href=\"https://twitter.com/papinadepalma/status/1243712961853743105?ref_src=twsrc%5Etfw\">March 28, 2020</a></blockquote>",
+            "keywords": "" 
+    },
         {
             "id": 14,
             "name": "CanastasUY",
@@ -123,8 +136,9 @@
             "description": {
                 "es_ES": "Sumamos voluntades para comprar canastas de comida, a entregar a familias que lo necesitan. <br/> <br/>¡Sumate! 🇺🇾 💙 te necesita."
             },
-            "details": "https://www.instagram.com/canastasuy/"
-        },
+            "details": "https://www.instagram.com/canastasuy/",
+            "keywords": "" 
+    },
         {
             "id": 15,
             "name": "lodesiempre.uy",
@@ -133,15 +147,17 @@
             "description": {
                 "es_ES": "Apoyá a los comercios gastronómicos. <br/> <br/> Comprá hoy un voucher con descuento, y ayudá a tu comercio favorito a surfear la ola."
             },
-            "link": "https://lodesiempre.uy/"
-        },
+            "link": "https://lodesiempre.uy/",
+            "keywords": "" 
+    },
         {
             "id": 16,
             "name": "juntos podemos 2020",
             "entity": "juntos podemos 2020",
             "logo": "https://pbs.twimg.com/profile_images/1243680371876810753/RVZRC6lD_400x400.jpg",
-            "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">¿Quiénes somos y qué buscamos? <a href=\"https://twitter.com/hashtag/juntospodemosuy?src=hash&amp;ref_src=twsrc%5Etfw\">#juntospodemosuy</a> <a href=\"https://twitter.com/hashtag/juntospodemos?src=hash&amp;ref_src=twsrc%5Etfw\">#juntospodemos</a> <a href=\"https://t.co/53MLUbvyTM\">pic.twitter.com/53MLUbvyTM</a></p>&mdash; juntos.podemos.2020 (@2020Juntos) <a href=\"https://twitter.com/2020Juntos/status/1243720675304640514?ref_src=twsrc%5Etfw\">March 28, 2020</a></blockquote>"
-        },
+            "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">¿Quiénes somos y qué buscamos? <a href=\"https://twitter.com/hashtag/juntospodemosuy?src=hash&amp;ref_src=twsrc%5Etfw\">#juntospodemosuy</a> <a href=\"https://twitter.com/hashtag/juntospodemos?src=hash&amp;ref_src=twsrc%5Etfw\">#juntospodemos</a> <a href=\"https://t.co/53MLUbvyTM\">pic.twitter.com/53MLUbvyTM</a></p>&mdash; juntos.podemos.2020 (@2020Juntos) <a href=\"https://twitter.com/2020Juntos/status/1243720675304640514?ref_src=twsrc%5Etfw\">March 28, 2020</a></blockquote>",
+            "keywords": "" 
+    },
         {
             "id": 17,
             "name": "Aldeas infantiles",
@@ -150,7 +166,8 @@
             "description": {
                 "es_ES": "De cara a la emergencia sanitaria provocada por el coronavirus, Aldeas Infantiles necesita más que nunca de la colaboración de los/las uruguayos/as para seguir haciendo posible que más de 1895 niños, niñas y adolescentes puedan mantener la calidad en su alimentación, acceder a artículos de limpieza e higiene y realizar actividades de recreación. Con tu apoyo lo podemos lograr."
             },
-            "link": "https://aldeasinfantiles.org.uy/dona"
-        }
+            "link": "https://aldeasinfantiles.org.uy/dona",
+            "keywords": "" 
+    }
     ]
 }
